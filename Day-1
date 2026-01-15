@@ -1,1 +1,13 @@
+# This is my first day of learning python.
+
+print("Begin")
+
+# variables
+# in python variables are references to the values or data stored in the
+# memory.
+# rules for naming variables
+# 1- Variable can only contain numbers, alphabets and underscore.
+# 2- Python is case sensitivr, a and A are different.
+# 3- A variable name ca only begin with a letter or underscore.
+# 4- A keyword cannot b used as a variable in pyhon.
 
